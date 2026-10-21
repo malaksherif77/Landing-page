@@ -1,0 +1,158 @@
+*{
+    margin:0;
+    padding:0
+}
+body {
+  font-family: 'Inter', sans-serif;
+   
+}
+header,.hero{
+    background-color: #D9E8EF;
+   
+}
+.header_button{
+    background-color: #D9E8EF;
+    border: none;
+   
+}
+.hero_tetx>h1{
+    font-family: "Inter", sans-serif;
+}
+.small{
+    font-size: small;
+}
+.med{
+    font-size: medium;
+}
+.bold{
+    font-weight: bolder;
+}
+.acheive{
+    border-left: 2px solid rgb(106, 89, 192);
+    margin-bottom: 40px !important;
+}
+#info{
+   color: rgb(106, 89, 192);
+}
+
+.features_heading{
+    
+    margin-top: 40px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.acheivements{
+    margin-top: 30px;
+}
+.vect{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.works{
+    padding-top: 40px !important;
+    
+}
+#small_heading{
+    padding-top: 20px !important;
+   
+   
+}
+.img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.reviews{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.icon{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#contact_img{
+   margin-top: 30px !important;
+   margin-bottom: 10px !important;
+   
+}
+#send_btn{
+    background-color: rgb(106, 89, 192) ;
+     border: 1px solid rgb(106, 89, 192);
+     margin-top: 20px;
+     margin-bottom: 20px;
+}
+#email,#s_name,#f_name{
+    height: 40px;
+    width: 80%;
+   
+}
+#message{
+    height: 100px;
+    width: 80%;
+}
+.contact_input{
+    margin-top: 20px;
+   
+}
+.footer{
+    background-color: black;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer {
+  background: #000;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.logo img {
+  height: 36px;
+}
+
+.footer_content {
+  max-width: 260px;
+  margin: 40px auto;
+}
+
+.footer_content a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 14px;
+}
+
+.footer_end {
+  border-top: 1px solid #333;
+  padding-top: 25px;
+}
+
+.footer_end p {
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.footer_links i {
+  background: #fff;
+  border-radius: 50%;
+  padding: 6px;
+  margin: 0 6px;
+  font-size: 14px;
+}
+.logo {
+   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.logo span {
+  font-size: 24px;
+  font-weight: 600;
+}
